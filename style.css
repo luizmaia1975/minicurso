@@ -39,3 +39,9 @@ main > section button {
     text-transform: uppercase;
     padding: 9.px 23px;
 }
+#detalhes-container{
+    font-weight: bold;
+    list-style-type: none;
+    height: 30px;
+    width: 90%;
+}
